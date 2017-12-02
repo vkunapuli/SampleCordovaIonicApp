@@ -1,0 +1,2 @@
+# SampleCordovaIonicApp
+Cordova Ionic App
